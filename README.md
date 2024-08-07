@@ -18,14 +18,6 @@ Die Website-Templates in diesem Repository sind vollständig mit HTML, CSS und J
 2. **Entpacken**: Entpacken Sie die heruntergeladene ZIP-Datei auf Ihrem Computer.
 3. **Verwendung**: Öffnen Sie die HTML-Dateien in einem Webbrowser, um die Templates anzuzeigen und beginnen Sie mit der Bearbeitung.
 
-## Live-Demos
-
-Erkunden Sie die Live-Demos der Templates, um zu sehen, wie sie in Aktion aussehen:
-
-- [Demo 1](https://www.google.com)
-
-
-*Bitte beachten Sie, dass die oben stehenden Links zu den Demos später durch die tatsächlichen URLs ersetzt werden.*
 
 ## Beiträge
 
